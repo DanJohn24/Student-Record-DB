@@ -1,1 +1,1 @@
-Utilizes cgicc and an attached MariaDB SQL database
+Programmed using C++, HTML, and cgicc with an attached MariaDB SQL database
